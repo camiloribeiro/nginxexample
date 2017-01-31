@@ -1,0 +1,10 @@
+method_used                 = "get"
+path                        = "/stream/stream"
+request_accept              = ""
+request_content_type        = ""
+response_sleep              = 0
+response_status             = "200"
+response_body               = { "service" : "A", "path" : "stream/stream" }
+response_content_type       = "application/json"
+response_location           = ""
+response_headers            = []
