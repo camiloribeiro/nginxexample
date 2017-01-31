@@ -6,6 +6,13 @@ Simple nginx example to help a friend:
       - cd nginxexample
       - docker-compose up
 
+When running, just try the different routes:
+
+      http://localhost/standard
+      http://localhost/stream/stream
+      http://localhost/sync
+      http://localhost/sync/stream
+
 You will need only docker and docker-compose to try it.
 
 Change the configuration as it pleases you. Remember you have to kill the containers and start it again in order to aply any config changes. (yep, I will maybe fix it in the future)
