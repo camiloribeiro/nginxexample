@@ -1,5 +1,8 @@
 # nginxexample
 
+This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
+By participating, you are expected to uphold this code.
+
 Simple nginx example to help a friend:
 
       - git clone git@github.com:camiloribeiro/nginxexample.git
